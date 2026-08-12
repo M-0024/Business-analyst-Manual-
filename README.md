@@ -5,7 +5,7 @@ My personal notes on Business Analyst frameworks, techniques, and templates — 
 ## 📂 Contents
 
 - [01 - Requirements Gathering](./01-requirements-gathering) — elicitation techniques, interviews, workshops
-- [02 - Process Mapping](./02-process-mapping) — BPMN, swimlane diagrams, as-is/to-be mapping
+- [02 - Root Cause Analysis & Statistical Techniques](./02-root-cause-and-statistical-analysis) — 5 Whys, Pareto analysis, fishbone diagrams, descriptive stats, trend analysis
 - [03 - Stakeholder Management](./03-stakeholder-management) — RACI, stakeholder analysis, communication planning
 - [04 - BRD & FRD Templates](./04-brd-frd-templates) — business & functional requirement document structures
 - [05 - Data Analysis for BA](./05-data-analysis-for-ba) — using SQL/Power BI/Excel in a BA context
